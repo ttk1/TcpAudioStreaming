@@ -1,0 +1,8 @@
+/target/
+.idea/*
+*.iml
+*.MF
+doc/*
+*.sql
+*.db
+src/main/resources/test.wav
